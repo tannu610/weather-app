@@ -1,1 +1,1 @@
-# weather-app.io
+# weather-app
